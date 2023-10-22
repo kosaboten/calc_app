@@ -1,7 +1,6 @@
 <?php
 
 use App\Http\Controllers\CalcController;
-use Brick\Math\Internal\Calculator;
 use Illuminate\Support\Facades\Route;
 
 /*
